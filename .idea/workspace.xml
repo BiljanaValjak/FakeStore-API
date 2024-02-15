@@ -4,20 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="852a8743-5750-431d-9608-ee5c528320c1" name="Changes" comment="" />
+    <list default="true" id="852a8743-5750-431d-9608-ee5c528320c1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
   <component name="ProjectId" id="2c0a14iDBz4GeiTC4xNg118PaUs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="openDirectoriesWithSingleClick" value="true" />
@@ -27,9 +44,82 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "FakeStoreAPI"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.FakeStoreCartTest">
+    <configuration name="FakeStoreCartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FakeStoreAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fakestore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fakestore" />
+      <option name="MAIN_CLASS_NAME" value="fakestore.FakeStoreCartTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FakeStoreCartTest.cartDefaultValuesPostTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FakeStoreAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fakestore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fakestore" />
+      <option name="MAIN_CLASS_NAME" value="fakestore.FakeStoreCartTest" />
+      <option name="METHOD_NAME" value="cartDefaultValuesPostTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FakeStoreCartTest.fakeStoreDefaultValuesPostTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FakeStoreAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fakestore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fakestore" />
+      <option name="MAIN_CLASS_NAME" value="fakestore.FakeStoreCartTest" />
+      <option name="METHOD_NAME" value="fakeStoreDefaultValuesPostTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FakeStoreCartTest.fakeStorePostTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FakeStoreAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fakestore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fakestore" />
+      <option name="MAIN_CLASS_NAME" value="fakestore.FakeStoreCartTest" />
+      <option name="METHOD_NAME" value="fakeStorePostTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FakeStoreCartTest" />
+        <item itemvalue="JUnit.FakeStoreCartTest.fakeStoreDefaultValuesPostTest" />
+        <item itemvalue="JUnit.FakeStoreCartTest.fakeStorePostTest" />
+        <item itemvalue="JUnit.FakeStoreCartTest.cartDefaultValuesPostTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
