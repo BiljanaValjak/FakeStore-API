@@ -1,0 +1,167 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"852a8743-5750-431d-9608-ee5c528320c1\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/pom.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 2\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2c0a14iDBz4GeiTC4xNg118PaUs\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"openDirectoriesWithSingleClick\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"FakeStoreAPI\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"JUnit.FakeStoreCartTest\">\r\n    <configuration name=\"FakeStoreCartTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"FakeStoreAPI\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"fakestore.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"fakestore\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"fakestore.FakeStoreCartTest\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"FakeStoreCartTest.cartDefaultValuesPostTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"FakeStoreAPI\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"fakestore.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"fakestore\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"fakestore.FakeStoreCartTest\" />\r\n      <option name=\"METHOD_NAME\" value=\"cartDefaultValuesPostTest\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"FakeStoreCartTest.fakeStoreDefaultValuesPostTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"FakeStoreAPI\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"fakestore.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"fakestore\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"fakestore.FakeStoreCartTest\" />\r\n      <option name=\"METHOD_NAME\" value=\"fakeStoreDefaultValuesPostTest\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"FakeStoreCartTest.fakeStorePostTest\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"FakeStoreAPI\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"fakestore.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"fakestore\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"fakestore.FakeStoreCartTest\" />\r\n      <option name=\"METHOD_NAME\" value=\"fakeStorePostTest\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"JUnit.FakeStoreCartTest\" />\r\n        <item itemvalue=\"JUnit.FakeStoreCartTest.fakeStoreDefaultValuesPostTest\" />\r\n        <item itemvalue=\"JUnit.FakeStoreCartTest.fakeStorePostTest\" />\r\n        <item itemvalue=\"JUnit.FakeStoreCartTest.cartDefaultValuesPostTest\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"852a8743-5750-431d-9608-ee5c528320c1\" name=\"Changes\" comment=\"\" />\r\n      <created>1707250735563</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1707250735563</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -6,7 +6,9 @@
+   <component name="ChangeListManager">
+     <list default="true" id="852a8743-5750-431d-9608-ee5c528320c1" name="Changes" comment="">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/client/FakeStoreCartClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/client/FakeStoreCartClient.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/util/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Configuration.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/test/java/fakestore/FakeStoreCartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fakestore/FakeStoreCartTest.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -28,9 +30,9 @@
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 2
+-}]]></component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 2
++}</component>
+   <component name="ProjectId" id="2c0a14iDBz4GeiTC4xNg118PaUs" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+     <ConfirmationsSetting value="1" id="Add" />
+@@ -40,14 +42,14 @@
+     <option name="openDirectoriesWithSingleClick" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "FakeStoreAPI"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;FakeStoreAPI&quot;
+   }
+-}]]></component>
+-  <component name="RunManager" selected="JUnit.FakeStoreCartTest">
++}</component>
++  <component name="RunManager" selected="JUnit.FakeStoreCartTest.getAllCartsTest">
+     <configuration name="FakeStoreCartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+       <module name="FakeStoreAPI" />
+       <extension name="coverage">
+@@ -106,6 +108,22 @@
+       <option name="PACKAGE_NAME" value="fakestore" />
+       <option name="MAIN_CLASS_NAME" value="fakestore.FakeStoreCartTest" />
+       <option name="METHOD_NAME" value="fakeStorePostTest" />
++      <option name="TEST_OBJECT" value="method" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="FakeStoreCartTest.getAllCartsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="FakeStoreAPI" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="fakestore.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="fakestore" />
++      <option name="MAIN_CLASS_NAME" value="fakestore.FakeStoreCartTest" />
++      <option name="METHOD_NAME" value="getAllCartsTest" />
+       <option name="TEST_OBJECT" value="method" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+@@ -113,8 +131,9 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="JUnit.FakeStoreCartTest" />
++        <item itemvalue="JUnit.FakeStoreCartTest.getAllCartsTest" />
+         <item itemvalue="JUnit.FakeStoreCartTest.fakeStoreDefaultValuesPostTest" />
++        <item itemvalue="JUnit.FakeStoreCartTest" />
+         <item itemvalue="JUnit.FakeStoreCartTest.fakeStorePostTest" />
+         <item itemvalue="JUnit.FakeStoreCartTest.cartDefaultValuesPostTest" />
+       </list>
+Index: src/main/java/client/FakeStoreCartClient.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package client;\r\n\r\nimport io.restassured.RestAssured;\r\nimport io.restassured.http.ContentType;\r\nimport io.restassured.response.Response;\r\nimport models.request.FakeStoreCartRequestModelPost;\r\nimport util.Configuration;\r\n\r\npublic class FakeStoreCartClient {\r\n    public Response postCart(FakeStoreCartRequestModelPost request){\r\n        return RestAssured.given()\r\n                .contentType(ContentType.JSON)\r\n                .when().log().all()\r\n                .body(request)\r\n                .post(Configuration.CART_POST_URL)\r\n                .thenReturn();\r\n    }\r\n}\r\n
+===================================================================
+diff --git a/src/main/java/client/FakeStoreCartClient.java b/src/main/java/client/FakeStoreCartClient.java
+--- a/src/main/java/client/FakeStoreCartClient.java	
++++ b/src/main/java/client/FakeStoreCartClient.java	
+@@ -7,8 +7,16 @@
+ import util.Configuration;
+ 
+ public class FakeStoreCartClient {
++//    public Response getAllCarts() {
++//        return RestAssured
++//                .given()
++//                .when().log().all()
++//                .get(Configuration.CART_GETALL_URL)
++//                .thenReturn();
++//    }
+     public Response postCart(FakeStoreCartRequestModelPost request){
+-        return RestAssured.given()
++        return RestAssured
++                .given()
+                 .contentType(ContentType.JSON)
+                 .when().log().all()
+                 .body(request)
+Index: src/test/java/fakestore/FakeStoreCartTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package fakestore;\r\n\r\nimport client.FakeStoreCartClient;\r\nimport data.FakeStoreCartDataFactory;\r\nimport io.restassured.response.Response;\r\nimport models.request.FakeStoreCartRequestModelPost;\r\nimport models.response.FakeStoreCartResponseModelPost;\r\nimport org.junit.Test;\r\n\r\nimport static mother.FakeStoreCartMother.createBodyForProduct;\r\nimport static org.junit.Assert.assertEquals;\r\n\r\npublic class FakeStoreCartTest {\r\n    @Test\r\n    public void fakeStoreDefaultValuesPostTest(){\r\n\r\n        FakeStoreCartRequestModelPost request = new FakeStoreCartDataFactory(createBodyForProduct())\r\n                .createBody();\r\n\r\n        Response postResponse = new FakeStoreCartClient()\r\n                .postCart(request);\r\n\r\n        FakeStoreCartResponseModelPost response = postResponse.body().as(FakeStoreCartResponseModelPost.class);\r\n\r\n        assertEquals(200, postResponse.statusCode());\r\n        assertEquals(\"Default userId\", response.getUserId() );\r\n        assertEquals(\"Default date\", response.getDate());\r\n        assertEquals(0, response.getProducts().getProductId());\r\n        assertEquals(0, response.getProducts().getQuantity());\r\n\r\n    }\r\n    @Test\r\n    public void fakeStorePostTest(){\r\n\r\n        FakeStoreCartRequestModelPost request = new FakeStoreCartDataFactory(createBodyForProduct())\r\n                .setUserId(\"21\")\r\n                .setDate(\"2020-02-03\")\r\n                .setProductId(5)\r\n                .setQuantity(1)\r\n                .createBody();\r\n\r\n        Response postResponse = new FakeStoreCartClient()\r\n                .postCart(request);\r\n\r\n\r\n        FakeStoreCartResponseModelPost response = postResponse.body().as(FakeStoreCartResponseModelPost.class);\r\n\r\n        assertEquals(200, postResponse.statusCode());\r\n        assertEquals(\"21\", response.getUserId() );\r\n        assertEquals(\"2020-02-03\", response.getDate());\r\n        assertEquals(5, response.getProducts().getProductId());\r\n        assertEquals(1, response.getProducts().getQuantity());\r\n\r\n    }\r\n\r\n}\r\n
+===================================================================
+diff --git a/src/test/java/fakestore/FakeStoreCartTest.java b/src/test/java/fakestore/FakeStoreCartTest.java
+--- a/src/test/java/fakestore/FakeStoreCartTest.java	
++++ b/src/test/java/fakestore/FakeStoreCartTest.java	
+@@ -4,13 +4,27 @@
+ import data.FakeStoreCartDataFactory;
+ import io.restassured.response.Response;
+ import models.request.FakeStoreCartRequestModelPost;
++import models.response.FakeStoreResponseModelGETAll;
+ import models.response.FakeStoreCartResponseModelPost;
+ import org.junit.Test;
+ 
++import java.util.List;
++
+ import static mother.FakeStoreCartMother.createBodyForProduct;
+ import static org.junit.Assert.assertEquals;
++import static org.junit.Assert.assertFalse;
+ 
+ public class FakeStoreCartTest {
++//    @Test
++//    public void getAllCartsTest(){
++//        Response getAllCartsResponse = new FakeStoreCartClient()
++//                .getAllCarts();
++//        FakeStoreResponseModelGETAll cartResponse = getAllCartsResponse.body().as(FakeStoreResponseModelGETAll.class);
++//        assertEquals(200, getAllCartsResponse.statusCode());
++//        assertFalse(cartResponse.getDate().isEmpty());
++//
++//    }
++
+     @Test
+     public void fakeStoreDefaultValuesPostTest(){
+ 
+Index: src/main/java/util/Configuration.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package util;\r\n\r\npublic class Configuration {\r\n\r\n    public static final String CART_BASE_URL = \"https://fakestoreapi.com\";\r\n    public static final String CART_POST_URL = CART_BASE_URL + \"/carts\";\r\n}\r\n
+===================================================================
+diff --git a/src/main/java/util/Configuration.java b/src/main/java/util/Configuration.java
+--- a/src/main/java/util/Configuration.java	
++++ b/src/main/java/util/Configuration.java	
+@@ -4,4 +4,6 @@
+ 
+     public static final String CART_BASE_URL = "https://fakestoreapi.com";
+     public static final String CART_POST_URL = CART_BASE_URL + "/carts";
++//    public static final String CART_GETALL_URL = CART_BASE_URL + "/carts";
++
+ }

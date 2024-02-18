@@ -5,8 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="852a8743-5750-431d-9608-ee5c528320c1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/FakeStoreCartDataFactoryPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/client/FakeStoreCartClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/client/FakeStoreCartClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/FakeStoreCartDataFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/request/FakeStoreCartRequestModelPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/request/FakeStoreCartRequestModelPostPut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/request/FakeStoreCartRequestModelProductsPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/request/FakeStoreCartRequestModelProductsPostPut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/response/FakeStoreCartResponseModelPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/response/FakeStoreCartResponseModelPostPut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/response/FakeStoreCartResponseModelProductsPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/response/FakeStoreCartResponseModelProductsPostPut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mother/FakeStoreCartMother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mother/FakeStoreCartMother.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fakestore/FakeStoreCartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fakestore/FakeStoreCartTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +38,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2c0a14iDBz4GeiTC4xNg118PaUs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -40,13 +50,13 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "FakeStoreAPI"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;FakeStoreAPI&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="JUnit.FakeStoreCartTest">
     <configuration name="FakeStoreCartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FakeStoreAPI" />
@@ -63,7 +73,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FakeStoreCartTest.cartDefaultValuesPostTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FakeStoreCartTest.deleteEmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FakeStoreAPI" />
       <extension name="coverage">
         <pattern>
@@ -73,13 +83,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="fakestore" />
       <option name="MAIN_CLASS_NAME" value="fakestore.FakeStoreCartTest" />
-      <option name="METHOD_NAME" value="cartDefaultValuesPostTest" />
+      <option name="METHOD_NAME" value="deleteEmployeeTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FakeStoreCartTest.fakeStoreDefaultValuesPostTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FakeStoreCartTest.getCartByUserFakeStoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FakeStoreAPI" />
       <extension name="coverage">
         <pattern>
@@ -89,13 +99,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="fakestore" />
       <option name="MAIN_CLASS_NAME" value="fakestore.FakeStoreCartTest" />
-      <option name="METHOD_NAME" value="fakeStoreDefaultValuesPostTest" />
+      <option name="METHOD_NAME" value="getCartByUserFakeStoreTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FakeStoreCartTest.fakeStorePostTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FakeStoreCartTest.postNewCartFakeStoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FakeStoreAPI" />
       <extension name="coverage">
         <pattern>
@@ -105,7 +115,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="fakestore" />
       <option name="MAIN_CLASS_NAME" value="fakestore.FakeStoreCartTest" />
-      <option name="METHOD_NAME" value="fakeStorePostTest" />
+      <option name="METHOD_NAME" value="postNewCartFakeStoreTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FakeStoreCartTest.putNewCartFakeStoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FakeStoreAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fakestore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fakestore" />
+      <option name="MAIN_CLASS_NAME" value="fakestore.FakeStoreCartTest" />
+      <option name="METHOD_NAME" value="putNewCartFakeStoreTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,9 +140,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.FakeStoreCartTest" />
-        <item itemvalue="JUnit.FakeStoreCartTest.fakeStoreDefaultValuesPostTest" />
-        <item itemvalue="JUnit.FakeStoreCartTest.fakeStorePostTest" />
-        <item itemvalue="JUnit.FakeStoreCartTest.cartDefaultValuesPostTest" />
+        <item itemvalue="JUnit.FakeStoreCartTest.deleteEmployeeTest" />
+        <item itemvalue="JUnit.FakeStoreCartTest.putNewCartFakeStoreTest" />
+        <item itemvalue="JUnit.FakeStoreCartTest.getCartByUserFakeStoreTest" />
+        <item itemvalue="JUnit.FakeStoreCartTest.postNewCartFakeStoreTest" />
       </list>
     </recent_temporary>
   </component>

@@ -4,14 +4,17 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import java.util.List;
+
 @Data
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class FakeStoreCartResponseModelPost {
+public class FakeStoreCartResponseModelGetByUserIdDelete {
 
     int id;
-    String userId;
+    int userId;
     String date;
-    FakeStoreCartResponseModelProductsPost products;
+    List<FakeStoreCartResponseModelProductsGetByUserIdDelete> products;
+    int __v;
 }
