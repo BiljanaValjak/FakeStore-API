@@ -1,4 +1,4 @@
-package models.request;
+package models.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class FakeStoreCartRequestModelProductsPost {
+public class FakeStoreCartResponseModelProductsPostPut {
 
     int productId;
     int quantity;

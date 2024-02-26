@@ -8,11 +8,9 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class FakeStoreCartRequestModelPost {
+public class FakeStoreCartRequestModelProductsPostPut {
 
-    String userId;
-    String date;
-    FakeStoreCartRequestModelProductsPost products;
-
+    int productId;
+    int quantity;
 
 }
